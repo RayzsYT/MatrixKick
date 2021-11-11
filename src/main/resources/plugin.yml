@@ -1,0 +1,12 @@
+name: MatrixKick
+version: 1.0
+author: Rayzs_YT
+main: de.rayzs.matrixkick.plugin.MatrixKick
+
+commands:
+  mk:
+    aliases:
+      - matrix
+      - matrixkick
+      - mf
+    permission: matrixkick.use
